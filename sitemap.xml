@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>/</loc>
+     <lastmod>2017-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>/Lab-1/</loc>
+     <lastmod>2017-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/Lab-2/</loc>
+     <lastmod>2017-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>/Matlab学习/</loc>
+     <lastmod>2017-03-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>

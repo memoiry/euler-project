@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u6570\u5b57\u56fe\u50cf\u5904\u7406\u5b9e\u9a8c \n\n\n\u6982\u8981\n\n\n\u7ecf\u8fc7\u672c\u6b21\u8bfe\u7a0b\u5b9e\u9a8c, \u4f60\u5c06\u80fd\u5b9e\u73b0\u4e00\u4e2a\u5b8c\u6574\u7684\u5b57\u7b26\u8bc6\u522b\u7cfb\u7edf. \n\n\n\u672c\u5b9e\u9a8c\u5305\u542b\u51e0\u4e2a\u90e8\u5206, \u5206\u522b\u4e3a\n\n\n\n\n\u56fe\u50cf\u5206\u5272\n\n\n\u56fe\u50cf\u5206\u7c7b", 
+            "title": "\u4e3b\u9875"
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "", 
+            "title": " \u6570\u5b57\u56fe\u50cf\u5904\u7406\u5b9e\u9a8c "
+        }, 
+        {
+            "location": "/#_2", 
+            "text": "\u7ecf\u8fc7\u672c\u6b21\u8bfe\u7a0b\u5b9e\u9a8c, \u4f60\u5c06\u80fd\u5b9e\u73b0\u4e00\u4e2a\u5b8c\u6574\u7684\u5b57\u7b26\u8bc6\u522b\u7cfb\u7edf.   \u672c\u5b9e\u9a8c\u5305\u542b\u51e0\u4e2a\u90e8\u5206, \u5206\u522b\u4e3a   \u56fe\u50cf\u5206\u5272  \u56fe\u50cf\u5206\u7c7b", 
+            "title": "\u6982\u8981"
+        }, 
+        {
+            "location": "/Lab-1/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u7b2c\u4e00\u6b21\u5b9e\u9a8c"
+        }, 
+        {
+            "location": "/Lab-1/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/Lab-1/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/Lab-1/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/Lab-2/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u7b2c\u4e8c\u6b21\u5b9e\u9a8c"
+        }, 
+        {
+            "location": "/Lab-2/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/Lab-2/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/Lab-2/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/Matlab\u5b66\u4e60/", 
+            "text": "\u8865\u5145\u8d44\u6599 \n\n\n\n\nMablab\n\n\nMatlab\u5165\u95e8(\u8f83\u77ed)\n\n\nMatalb\u6559\u7a0b(\u8f83\u8be6\u7ec6)", 
+            "title": "Matlab\u5b66\u4e60\u8d44\u6599"
+        }, 
+        {
+            "location": "/Matlab\u5b66\u4e60/#_1", 
+            "text": "", 
+            "title": " \u8865\u5145\u8d44\u6599 "
+        }, 
+        {
+            "location": "/Matlab\u5b66\u4e60/#mablab", 
+            "text": "Matlab\u5165\u95e8(\u8f83\u77ed)  Matalb\u6559\u7a0b(\u8f83\u8be6\u7ec6)", 
+            "title": "Mablab"
+        }
+    ]
+}
